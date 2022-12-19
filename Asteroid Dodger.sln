@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asteroid_Dodger", "WindowsFormsApp1\Asteroid_Dodger.csproj", "{D91E6959-BAA9-4F7A-82F5-F8B277978B5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D91E6959-BAA9-4F7A-82F5-F8B277978B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91E6959-BAA9-4F7A-82F5-F8B277978B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91E6959-BAA9-4F7A-82F5-F8B277978B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91E6959-BAA9-4F7A-82F5-F8B277978B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {536B38A2-AD91-46AF-A330-5BF1625637B0}
+	EndGlobalSection
+EndGlobal
