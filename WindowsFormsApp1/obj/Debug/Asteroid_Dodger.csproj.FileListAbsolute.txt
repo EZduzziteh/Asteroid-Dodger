@@ -9,3 +9,14 @@ C:\Users\Sasha\Desktop\Asteroids\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ast
 C:\Users\Sasha\Desktop\Asteroids\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Asteroid_Dodger.Properties.Resources.resources
 C:\Users\Sasha\Desktop\Asteroids\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Asteroid_Dodger.exe
 C:\Users\Sasha\Desktop\Asteroids\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Asteroid_Dodger.pdb
+C:\Users\Sasha\Documents\GitHub\Asteroid-Dodger\WindowsFormsApp1\bin\Debug\Asteroid_Dodger.exe.config
+C:\Users\Sasha\Documents\GitHub\Asteroid-Dodger\WindowsFormsApp1\bin\Debug\Asteroid_Dodger.exe
+C:\Users\Sasha\Documents\GitHub\Asteroid-Dodger\WindowsFormsApp1\bin\Debug\Asteroid_Dodger.pdb
+C:\Users\Sasha\Documents\GitHub\Asteroid-Dodger\WindowsFormsApp1\obj\Debug\Asteroid_Dodger.csproj.AssemblyReference.cache
+C:\Users\Sasha\Documents\GitHub\Asteroid-Dodger\WindowsFormsApp1\obj\Debug\Asteroid_Dodger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sasha\Documents\GitHub\Asteroid-Dodger\WindowsFormsApp1\obj\Debug\Asteroid_Dodger.MainForm.resources
+C:\Users\Sasha\Documents\GitHub\Asteroid-Dodger\WindowsFormsApp1\obj\Debug\Asteroid_Dodger.Properties.Resources.resources
+C:\Users\Sasha\Documents\GitHub\Asteroid-Dodger\WindowsFormsApp1\obj\Debug\Asteroid_Dodger.csproj.GenerateResource.cache
+C:\Users\Sasha\Documents\GitHub\Asteroid-Dodger\WindowsFormsApp1\obj\Debug\Asteroid_Dodger.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Documents\GitHub\Asteroid-Dodger\WindowsFormsApp1\obj\Debug\Asteroid_Dodger.exe
+C:\Users\Sasha\Documents\GitHub\Asteroid-Dodger\WindowsFormsApp1\obj\Debug\Asteroid_Dodger.pdb
